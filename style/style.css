@@ -1,0 +1,8 @@
+
+.table td, .table th  {
+    vertical-align: bottom !important;
+}
+
+#city-name  {
+    vertical-align: middle !important;
+}
