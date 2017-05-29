@@ -7,6 +7,15 @@
     vertical-align: middle !important;
 }
 */
+.heading-container {
+    background-color: #0080FF;
+    padding: 5px;
+}
+
+.heading-title {
+    color: #fff;;
+    text-align: center;
+}
 
 td, th {
     vertical-align: middle !important;
